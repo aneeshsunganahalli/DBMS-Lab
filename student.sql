@@ -13,6 +13,7 @@ CREATE TABLE COURSE (
     dept VARCHAR(100)
 );
 
+
 -- Create table ENROLL
 CREATE TABLE ENROLL (
     regno VARCHAR(40),

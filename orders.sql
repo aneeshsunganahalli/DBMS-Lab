@@ -5,6 +5,7 @@ CREATE TABLE Customer (
     city VARCHAR(100)
 );
 
+
 -- create order table 
 CREATE TABLE Order_ (
     order_ INT PRIMARY KEY,

@@ -9,6 +9,7 @@ CREATE TABLE EMPLOYEE (
     DNo INT
 );
 
+
 -- Create the DEPARTMENT table
 CREATE TABLE DEPARTMENT (
     DNo INT PRIMARY KEY, -- Department number

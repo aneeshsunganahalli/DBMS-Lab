@@ -13,6 +13,7 @@ CREATE TABLE BOAT (
     color VARCHAR(50)
 );
 
+
 -- Create RESERVES table
 CREATE TABLE RESERVES (
     sid INT,

@@ -12,6 +12,7 @@ c_year INTEGER,
 PRIMARY KEY (reg_no)
 );
 
+
 CREATE TABLE IF NOT EXISTS accident (
 report_no INTEGER NOT NULL,
 accident_date DATE,
